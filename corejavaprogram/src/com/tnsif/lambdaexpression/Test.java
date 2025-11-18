@@ -1,4 +1,4 @@
-package com.tns.lambdaexpression;
+package com.tnsif.lambdaexpression;
 
 public class Test implements Drawable {
 int width=10;

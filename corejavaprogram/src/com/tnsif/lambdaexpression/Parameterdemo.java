@@ -1,4 +1,4 @@
-package com.tns.lambdaexpression;
+package com.tnsif.lambdaexpression;
 
 public class Parameterdemo{
 	public static void main(String[] args) {

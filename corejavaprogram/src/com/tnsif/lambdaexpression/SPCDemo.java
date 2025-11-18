@@ -1,4 +1,4 @@
-package com.tns.lambdaexpression;
+package com.tnsif.lambdaexpression;
 
 import java.util.function.Consumer;
 import java.util.function.Predicate;

@@ -1,4 +1,4 @@
-package com.tns.lambdaexpression;
+package com.tnsif.lambdaexpression;
 
 //demo for multithreading
 

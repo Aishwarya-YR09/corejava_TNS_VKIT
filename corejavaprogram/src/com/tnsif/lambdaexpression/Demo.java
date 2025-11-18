@@ -1,4 +1,4 @@
-package com.tns.lambdaexpression;
+package com.tnsif.lambdaexpression;
 
 //with lambda expression
 @FunctionalInterface
